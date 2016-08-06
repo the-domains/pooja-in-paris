@@ -1,4 +1,3 @@
-layout_spectrum: 0.24390704510733485
 typography_spectrum: 0.47410132293589413
 color:
   brandStrength: 0.9201912598218769
@@ -11,5 +10,7 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
+layout_spectrum: 0.24390704510733485
 name: Pooja in Paris
 title: Des zakailleries pour une zako
+description: '-P-'
