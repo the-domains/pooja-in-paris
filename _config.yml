@@ -12,17 +12,17 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5189906780142337
+  saturation: 0.8507589
   brandStrength: 0.9201912598218769
-  rhythmicContrast: 0.5190431505907327
+  lightness: 0.4848229
   brandColors:
     - '#1A1F2B'
     - '#30395C'
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-  lightness: 0.9987952755764127
-typography_spectrum: 0.4741013229358941
+  rhythmicContrast: 0.7175379
+typography_spectrum: 0.5438449
 description: '-P-'
 layout_spectrum: 0.8768972
 name: Pooja in Paris
