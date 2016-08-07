@@ -1,8 +1,19 @@
-typography_spectrum: 0.47410132293589413
+title: Des zakailleries pour une zako
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.9201912598218769
-  lightness: 0.9987952755764127
   saturation: 0.5189906780142337
+  brandStrength: 0.9201912598218769
   rhythmicContrast: 0.5190431505907327
   brandColors:
     - '#1A1F2B'
@@ -10,7 +21,8 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-layout_spectrum: 0.24390704510733485
-name: Pooja in Paris
-title: Des zakailleries pour une zako
+  lightness: 0.9987952755764127
+typography_spectrum: 0.4741013229358941
 description: '-P-'
+layout_spectrum: 0.8768972
+name: Pooja in Paris
